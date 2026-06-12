@@ -38,7 +38,7 @@ Passionate about building scalable web applications and solving real-world probl
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,git,github,postman,vercel,netlify,vscode" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ Passionate about building scalable web applications and solving real-world probl
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunn0102&theme=tokyonight" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arunn0102&theme=tokyo-night"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunn0102&theme=tokyo-night"/> -->
 
 ---
 
