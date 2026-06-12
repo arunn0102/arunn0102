@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Arun Verma</h1>
 
 <h3 align="center">
-Full Stack Developer | React.js | Next.js | Node.js | MongoDB
+Full Stack Developer | React.js | Next.js | Node.js | Express.js | MongoDB
 </h3>
 
 <p align="center">
-Building modern web applications and solving real-world problems.
+Passionate about building scalable web applications and solving real-world problems through modern web technologies.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/arun-verma-/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
 </p>
 
 ---
@@ -13,10 +19,11 @@ Building modern web applications and solving real-world problems.
 ## 🚀 About Me
 
 - 💻 Full Stack Developer
-- 🌱 Learning Advanced Backend Development
-- 🚀 Passionate about scalable web applications
-- 📫 Reach me: arun786856@gmail.com
-- 🌐 Portfolio: https://my-portfolio-woad-one-69.vercel.app/
+- 🌱 Currently learning Advanced Backend Development
+- 🔭 Working on modern web applications and scalable solutions
+- 📚 Strong foundation in JavaScript, React.js, Next.js, Node.js and MongoDB
+- 🎯 Focused on writing clean, maintainable and efficient code
+- 📫 Reach me on LinkedIn
 
 ---
 
@@ -32,41 +39,50 @@ Building modern web applications and solving real-world problems.
 
 ### 🛒 ThriftBay
 
-Full Stack E-Commerce Platform with authentication, product management and responsive UI.
+Full-stack e-commerce platform with authentication, product management and responsive user experience.
 
 ### 🤖 AI Interview Mocker
 
-AI-powered interview preparation platform with dynamic interview generation.
+AI-powered interview preparation platform with role-based interview generation and feedback.
+
+### 🌐 Developer Portfolio
+
+Professional portfolio website showcasing projects, skills and experience.
 
 ### 🏗️ GNK Builder Website
 
-Professional construction business website with responsive design.
+Modern responsive business website developed for construction and builder services.
 
 ### 💰 RAMSHA Finance Website
 
-Finance platform built with modern web technologies.
+Finance-focused web platform built using modern full-stack technologies.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arunn0102&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=arunn0102&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arunn0102" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arunn0102&theme=github-dark-blue" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunn0102&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunn0102&layout=compact&theme=github_dark" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/arun-verma-/">LinkedIn</a> •
-<a href="https://my-portfolio-woad-one-69.vercel.app/">Portfolio</a>
+<p align="center">
+<a href="https://www.linkedin.com/in/arun-verma-/">LinkedIn</a>
+</p>
+
+---
+
+<p align="center">
+Thanks for visiting my profile 🚀
 </p>
