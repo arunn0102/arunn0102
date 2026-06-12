@@ -90,6 +90,13 @@ Finance-focused web application built using modern technologies.
 
 ## 🌐 Connect With Me
 
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arunn0102/arunn0102/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 - LinkedIn: https://www.linkedin.com/in/arun-verma-/
 
 ---
