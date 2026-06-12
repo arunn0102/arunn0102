@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Arun%20Verma&fontSize=55&fontAlignY=40&animation=fadeIn"/>
+</p>
+
 <div align="center">
 
 # Hey 👋 I'm Arun Verma
