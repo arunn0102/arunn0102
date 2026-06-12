@@ -1,88 +1,110 @@
-<h1 align="center">Hi 👋, I'm Arun Verma</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer | React.js | Next.js | Node.js | Express.js | MongoDB
-</h3>
+# Hey 👋 I'm Arun Verma
 
-<p align="center">
-Passionate about building scalable web applications and solving real-world problems through modern web technologies.
-</p>
+### Full Stack Developer | React.js • Next.js • Node.js • MongoDB
 
-<p align="center">
-<a href="https://www.linkedin.com/in/arun-verma-/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Open+to+Software+Engineering+Opportunities" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer
-- 🌱 Currently learning Advanced Backend Development
-- 🔭 Working on modern web applications and scalable solutions
-- 📚 Strong foundation in JavaScript, React.js, Next.js, Node.js and MongoDB
-- 🎯 Focused on writing clean, maintainable and efficient code
-- 📫 Reach me on LinkedIn
+```javascript
+const arun = {
+  role: "Full Stack Developer",
+  location: "India",
+  code: ["JavaScript", "TypeScript"],
+  frontend: ["React.js", "Next.js", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js"],
+  database: ["MongoDB", "MySQL"],
+  tools: ["Git", "GitHub", "Postman", "VS Code"],
+  currentFocus: "Building scalable web applications"
+};
+```
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,git,github,postman,vscode" />
+
+</div>
 
 ---
 
-## 🔥 Featured Projects
+# 🌟 Featured Projects
 
 ### 🛒 ThriftBay
 
-Full-stack e-commerce platform with authentication, product management and responsive user experience.
+Full Stack E-Commerce Platform with authentication, product management and responsive user experience.
 
 ### 🤖 AI Interview Mocker
 
-AI-powered interview preparation platform with role-based interview generation and feedback.
+AI-powered interview preparation platform with dynamic interview generation and feedback.
 
-### 🌐 Developer Portfolio
+### 🌐 Portfolio Website
 
-Professional portfolio website showcasing projects, skills and experience.
+Professional developer portfolio showcasing projects, skills and experience.
 
 ### 🏗️ GNK Builder Website
 
-Modern responsive business website developed for construction and builder services.
+Modern construction business website built with responsive design principles.
 
 ### 💰 RAMSHA Finance Website
 
-Finance-focused web platform built using modern full-stack technologies.
+Finance-focused web platform developed using modern full-stack technologies.
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arunn0102&show_icons=true&theme=github_dark" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arunn0102&theme=github-dark-blue" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arunn0102&show_icons=true&theme=tokyonight&border_radius=10"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunn0102&layout=compact&theme=github_dark" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunn0102&layout=compact&theme=tokyonight&border_radius=10"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="center">
-<a href="https://www.linkedin.com/in/arun-verma-/">LinkedIn</a>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arunn0102&theme=tokyonight" />
+
+</div>
 
 ---
 
-<p align="center">
-Thanks for visiting my profile 🚀
-</p>
+# 🏆 Achievements
+
+- 🎓 Infosys Certification – Data Structures & Algorithms
+- 🎓 Infosys Certification – Java Fundamentals
+- 🎓 VOIS Certification – Machine Learning Concepts
+- 🚀 Built Multiple Full Stack Applications
+- 💡 Passionate Problem Solver
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/arun-verma-/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories ⭐
+
+</div>
