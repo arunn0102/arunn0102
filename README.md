@@ -38,7 +38,7 @@ Passionate about building scalable web applications and solving real-world probl
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,aws,docker,mysql,git,github,postman,vercel,netlify,vscode" />
+<img src="https://skillicons.dev/icons?i=html,tailwind,js,react,nextjs,nodejs,express,mongodb,aws,docker,mysql,git,github,postman,vercel,netlify,vscode" />
 </p>
 
 ---
