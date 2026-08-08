@@ -10,7 +10,7 @@
 </div>
 
 <h3 align="center">
-Full Stack Developer | React.js | Next.js | Node.js | MongoDB
+Full Stack Developer | React.js | Next.js | Node.js | Express.js | MongoDB 
 </h3>
 
 <p align="center">
