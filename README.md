@@ -46,15 +46,21 @@ Passionate about building scalable web applications and solving real-world probl
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=arunn0102&show_icons=true&theme=tokyonight&hide_border=true"
+  />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arunn0102&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunn0102&layout=compact&theme=tokyonight" />
-
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunn0102&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arunn0102&theme=tokyonight" />
+  <img
+    src="https://streak-stats.demolab.com?user=arunn0102&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunn0102&theme=tokyo-night"/> -->
