@@ -9,9 +9,9 @@
 
 </div>
 
-<h3 align="center">
+<h2 align="center">
 Full Stack Developer | React.js | Next.js | Node.js | Express.js | MongoDB | TypeScript | Docker | AWS | Azure
-</h3>
+</h2>
 
 <p align="center">
 Passionate about building scalable web applications and solving real-world problems.
