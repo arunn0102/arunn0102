@@ -1,152 +1,176 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
+<!-- ═══════════════════════ PREMIUM ANIMATED HEADER ═══════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=ARUN%20VERMA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descAlignY=58&descSize=18"/>
-
-</div>
-
-<!-- ===================== INTRODUCTION ===================== -->
-
-<div align="center">
-
-### 👋 Hey there! Welcome to my Digital Space
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Full+Stack+Developer+%F0%9F%9A%80;React.js+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+Scalable+Web+Applications;Turning+Ideas+Into+Real+World+Solutions;Always+Learning+%7C+Always+Building"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:16213E,100:7C3AED&text=ARUN%20VERMA&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=FULL%20STACK%20DEVELOPER%20%7C%20CREATIVE%20PROBLEM%20SOLVER&descAlignY=57&descSize=17"/>
 
 <br/>
 
-<!-- <img src="https://komarev.com/ghpvc/?username=arunn0102&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge"/> -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&height=65&lines=Hey+there!+I'm+Arun+Verma+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;React.js+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+Modern+%26+Scalable+Web+Apps;Turning+Ideas+Into+Digital+Experiences;Code.+Create.+Innovate.+Repeat."/>
 
-<!-- <img src="https://img.shields.io/github/followers/arunn0102?label=FOLLOWERS&style=for-the-badge&color=7C3AED&labelColor=0D1117"/> -->
+<br/>
 
-<img src="https://img.shields.io/badge/OPEN%20TO-WORK-00C853?style=for-the-badge&labelColor=0D1117"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=arunn0102&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/github/followers/arunn0102?label=FOLLOWERS&style=for-the-badge&color=7C3AED&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/OPEN_TO-WORK-00C853?style=for-the-badge&labelColor=0D1117"/>
+</p>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/arun-verma-/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/arunn0102">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://my-portfolio-woad-one-69.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ ANIMATED ABOUT ME ═══════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2" width="100%"/>
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Passionate+Developer+%7C+Creative+Thinker;Building+Solutions+That+Make+An+Impact;Learning+Something+New+Every+Day;From+Concept+To+Code+To+Production"/>
+
+<br/>
+
+<img width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Animated developer working on a laptop"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/arun-verma-/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/arunn0102">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://my-portfolio-woad-one-69.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
 </div>
 
-<br/>
-
-<!-- ===================== ABOUT ME ===================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2&section=header" width="100%"/>
-
-## 👨‍💻 About Me
+### 💻 A Little More About Me
 
 ```javascript
-const arun = {
-  name: "Arun Verma",
+class Developer {
+  constructor() {
+    this.name = "Arun Verma";
+    this.role = "Full Stack Developer";
+    this.location = "India 🇮🇳";
+    this.education = "B.Tech Computer Science";
 
-  role: "Full Stack Developer",
+    this.skills = {
+      frontend: [
+        "React.js",
+        "Next.js",
+        "JavaScript",
+        "TypeScript",
+        "Tailwind CSS"
+      ],
 
-  location: "India 🇮🇳",
+      backend: [
+        "Node.js",
+        "Express.js",
+        "REST APIs"
+      ],
 
-  education: "B.Tech Computer Science",
+      databases: [
+        "MongoDB",
+        "MySQL"
+      ],
 
-  frontend: [
-    "React.js",
-    "Next.js",
-    "JavaScript",
-    "TypeScript",
-    "Tailwind CSS"
-  ],
+      tools: [
+        "Git",
+        "GitHub",
+        "Postman",
+        "Docker",
+        "Vercel"
+      ]
+    };
 
-  backend: [
-    "Node.js",
-    "Express.js",
-    "REST APIs"
-  ],
+    this.currentFocus = [
+      "Advanced Backend Development",
+      "System Design",
+      "API Security",
+      "Cloud Technologies"
+    ];
 
-  databases: [
-    "MongoDB",
-    "MySQL"
-  ],
+    this.interests = [
+      "Scalable Web Applications",
+      "AI-Powered Products",
+      "Modern Web Architecture",
+      "Open Source"
+    ];
 
-  tools: [
-    "Git",
-    "GitHub",
-    "Postman",
-    "Docker",
-    "Vercel"
-  ],
+    this.openToWork = true;
+  }
 
-  currentlyLearning: [
-    "Advanced Backend Development",
-    "System Design",
-    "Cloud Technologies"
-  ],
+  getMission() {
+    return "Turning complex problems into elegant solutions 🚀";
+  }
+}
 
-  interests: [
-    "Full Stack Development",
-    "API Architecture",
-    "AI Powered Applications",
-    "Software Engineering"
-  ],
+const arun = new Developer();
 
-  openToWork: true,
-
-  motto: "Build. Learn. Improve. Repeat."
-};
+console.log(arun.getMission());
 ```
 
 <br/>
 
-- 🔭 Currently focused on **building production-ready full-stack applications**
-- 🌱 Exploring **advanced backend development, system design and cloud technologies**
-- 💻 Passionate about **React.js, Next.js, Node.js and modern web architecture**
-- 🧠 Interested in **AI-powered applications and scalable software systems**
-- 🤝 Open to collaborating on **innovative full-stack and open-source projects**
-- 🎯 Career Goal: **Software Engineer / Full Stack Developer**
-- ⚡ Philosophy: **Write clean code, solve meaningful problems, and keep improving**
+<div align="center">
+
+### ⚡ My Developer Mindset
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=00FFB3&center=true&vCenter=true&width=750&lines=%3E+Write+Clean+Code;%3E+Build+Real+World+Products;%3E+Solve+Challenging+Problems;%3E+Keep+Learning+%26+Improving;%3E+Never+Stop+Building"/>
+
+</div>
 
 <br/>
 
-<!-- ===================== TECH STACK ===================== -->
+- 🔭 **Currently Building:** Modern full-stack applications with scalable architectures.
+- 🌱 **Currently Learning:** Advanced backend development, API security, and system design.
+- 🤖 **Interested In:** AI-powered web applications and intelligent automation.
+- 🧩 **Problem-Solving:** Data Structures, Algorithms, and software engineering fundamentals.
+- 🤝 **Collaboration:** Open-source contributions and innovative development projects.
+- 🎯 **Career Focus:** Full Stack Development and Software Engineering.
+- ⚡ **Fun Fact:** I enjoy turning complex ideas into clean, interactive web experiences.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2&section=header" width="100%"/>
+<br/>
 
-## 🛠️ Tech Stack & Developer Arsenal
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2" width="100%"/>
+
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <div align="center">
 
-### 🎨 Frontend Development
+### 🎨 Frontend Technologies
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark"/>
 
-<br/>
+<br/><br/>
 
-### ⚙️ Backend Development
+### ⚙️ Backend Technologies
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,python&theme=dark"/>
 
-<br/>
+<br/><br/>
 
 ### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
 
-<br/>
+<br/><br/>
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud & Deployment
 
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,vercel,netlify&theme=dark"/>
 
-<br/>
+<br/><br/>
 
-### 🔧 Developer Tools
+### 🔧 Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma&theme=dark"/>
 
@@ -154,96 +178,77 @@ const arun = {
 
 <br/>
 
-<!-- ===================== CURRENT FOCUS ===================== -->
+<!-- ═══════════════════════ CURRENT FOCUS ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2" width="100%"/>
 
-## 🎯 What I'm Currently Focused On
+<h2 align="center">🎯 Current Focus</h2>
 
 <div align="center">
 
-| 🚀 Development | 🧠 Learning | 🎯 Career |
+| 🚀 Building | 📚 Learning | 🎯 Exploring |
 |:---:|:---:|:---:|
-| Full Stack Applications | Advanced REST APIs | Software Engineering |
-| Next.js Architecture | Authentication & Security | Full Stack Development |
-| Backend Integration | System Design | Real-World Products |
-| AI-Powered Features | Cloud & Deployment | Technical Growth |
+| Full Stack Applications | Advanced REST APIs | System Design |
+| Modern Next.js Apps | Authentication & Security | Cloud Architecture |
+| AI-Powered Features | Backend Optimization | Scalable Systems |
+| Responsive Interfaces | API Integration | Software Engineering |
 
 </div>
 
 <br/>
 
-<!-- ===================== EXPERIENCE ===================== -->
+<!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2" width="100%"/>
 
-## 💼 Professional Experience
-
-### 💻 Full Stack Web Developer Intern — TechPotli
-
-**November 2025 – April 2026**
-
-- Developed responsive web applications using React.js, Next.js and Tailwind CSS.
-- Integrated RESTful APIs and worked with Node.js, Express.js and MongoDB.
-- Collaborated on real-world client projects using Git and Agile development practices.
-
-### 🌐 Frontend Developer Intern — Decode
-
-**May 2025 – July 2025**
-
-- Built responsive frontend interfaces using modern JavaScript technologies.
-- Developed reusable UI components and improved application usability.
-- Worked on frontend functionality, debugging and application optimization.
-
-<br/>
-
-<!-- ===================== PROJECTS ===================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2&section=header" width="100%"/>
-
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
 
-### 🛒 ThriftBay — Full Stack E-Commerce Platform
+### 🛒 ThriftBay — E-Commerce Platform
 
-**MERN Stack • Tailwind CSS • Authentication • REST APIs**
+**MERN Stack • Tailwind CSS • REST APIs**
 
-A modern full-stack e-commerce platform focused on responsive design, product management and seamless user experiences.
+A modern full-stack e-commerce application featuring responsive interfaces, authentication, and product management.
 
 <a href="https://thriftbay.netlify.app/">
-<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### 🤖 AI Interview Prep Platform
+### 🤖 AI Interview Preparation Platform
 
 **React.js • Node.js • Express.js • MongoDB • AI APIs**
 
-An AI-powered interview preparation application designed to help developers improve technical interview skills.
-
-**Highlights:**
-
-- AI-generated interview questions
-- Interactive mock interview experience
-- AI-powered feedback
-- Resume and job description assistance
+An intelligent interview preparation platform featuring AI-generated questions, mock interviews, and personalized feedback.
 
 <a href="https://github.com/arunn0102/AI-Mock-Chatbot">
-<img src="https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### 🎨 Developer Portfolio
+### 🎌 AnimeVerse — Anime Discovery Platform
 
-**React.js • Modern UI • Responsive Design**
+**React.js • Vite • GSAP • Framer Motion • Tailwind CSS**
 
-A personal developer portfolio showcasing projects, technical skills and professional experience.
+A visually engaging anime discovery platform with smooth animations, dynamic content, and responsive design.
+
+<a href="https://anime-verse-flax.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### 🌐 Personal Developer Portfolio
+
+**React.js • Responsive Design • Modern UI**
+
+A personal portfolio showcasing my development projects, technical skills, and creative work.
 
 <a href="https://my-portfolio-woad-one-69.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Explore_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -252,43 +257,31 @@ A personal developer portfolio showcasing projects, technical skills and profess
 
 **Next.js • JavaScript • Tailwind CSS**
 
-A responsive construction and business services website with modern navigation and service-specific pages.
+A responsive business website featuring service pages, modern navigation, and reusable components.
 
 <br/><br/>
 
 ### 💰 RAMSHA Finance Website
 
-**Modern Web Development • Responsive UI**
+**Modern Web Technologies • Responsive UI**
 
-A finance-focused website designed with a clean interface, responsive layouts and user-friendly navigation.
-
-<br/><br/>
-
-### 🎌 AnimeVerse
-
-**React.js • Vite • Tailwind CSS • GSAP • Framer Motion**
-
-An interactive anime discovery experience featuring animations, responsive design and anime information.
-
-<a href="https://anime-verse-flax.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-00C853?style=for-the-badge"/>
-</a>
+A finance-focused website featuring a clean design and user-friendly interface.
 
 </div>
 
 <br/>
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2" width="100%"/>
 
-## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=arunn0102&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arunn0102&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunn0102&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunn0102&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br/><br/>
 
@@ -298,101 +291,110 @@ An interactive anime discovery experience featuring animations, responsive desig
 
 <br/>
 
-<!-- ===================== ACTIVITY GRAPH ===================== -->
+<!-- ═══════════════════════ CONTRIBUTION GRAPH ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2" width="100%"/>
 
-## 📈 Contribution Activity
+<h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arunn0102&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arunn0102&theme=tokyo-night&hide_border=true&area=true&custom_title=Arun's%20Contribution%20Graph"/>
 
 </div>
 
 <br/>
 
-<!-- ===================== TROPHIES ===================== -->
+<!-- ═══════════════════════ GITHUB TROPHIES ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2" width="100%"/>
 
-## 🏆 GitHub Achievements
+<h2 align="center">🏆 GitHub Achievements</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=arunn0102&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=arunn0102&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </div>
 
 <br/>
 
-<!-- ===================== CERTIFICATIONS ===================== -->
+<!-- ═══════════════════════ CERTIFICATIONS ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2" width="100%"/>
 
-## 🎓 Education & Certifications
-
-### 🎓 Bachelor of Technology — Computer Science
-
-**Guru Gobind Singh Indraprastha University**
-
-2021 – 2025 | CGPA: 8.4
-
-<br/>
-
-### 🏅 Professional Certifications
-
-- 🥇 **Infosys** — Data Structures & Algorithms
-- ☕ **Infosys** — Java Fundamentals
-- 🤖 **VOIS** — Machine Learning Concepts
-- 💡 **Hackathon Participation** — Problem Solving & Innovation
-
-<br/>
-
-<!-- ===================== CONNECT ===================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2&section=header" width="100%"/>
-
-## 🤝 Let's Connect & Build Something Amazing
+<h2 align="center">🏅 Certifications & Learning</h2>
 
 <div align="center">
 
-### 💬 Have an idea, opportunity, or collaboration in mind?
+| 🏆 Certification | 🏢 Organization |
+|:---|:---|
+| Data Structures & Algorithms | Infosys |
+| Java Fundamentals | Infosys |
+| Machine Learning Concepts | VOIS |
+| Hackathon Participation | Technical Events |
 
-I'm always interested in discussing software engineering, innovative projects, and opportunities to build meaningful products.
+</div>
 
 <br/>
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2" width="100%"/>
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Let's+Build+Something+Amazing!;Open+To+Collaboration+%26+Opportunities;Feel+Free+To+Connect+With+Me!"/>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/arun-verma-/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/arunn0102">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://my-portfolio-woad-one-69.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### 🚀 Open to Full Stack Developer & Software Engineering Opportunities
+### 💼 Open to Software Engineering & Full Stack Developer Opportunities
 
 </div>
 
 <br/>
 
-<!-- ===================== FOOTER ===================== -->
+<!-- ═══════════════════════ OPTIONAL CONTRIBUTION SNAKE ═══════════════════════ -->
+
+<!--
+To enable this section, configure a GitHub Actions workflow
+that generates the contribution snake SVG.
+
+<h2 align="center">🐍 My Contributions</h2>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<img src="https://raw.githubusercontent.com/arunn0102/arunn0102/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-### ⭐ Thanks for visiting my GitHub profile!
+</div>
+-->
 
-**If you find my projects useful, consider starring a repository.**
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
-<sub>Made with ❤️ and lots of ☕ by Arun Verma</sub>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:16213E,100:7C3AED&height=150&section=footer"/>
+
+### ⭐ Thanks for visiting!
+
+**Explore my repositories, check out my projects, and feel free to connect.**
+
+<sub>Designed with 💜 | Built with ☕ | Powered by Curiosity 🚀</sub>
 
 </div>
