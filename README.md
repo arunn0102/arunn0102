@@ -11,8 +11,8 @@
 <br/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=arunn0102&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/github/followers/arunn0102?label=FOLLOWERS&style=for-the-badge&color=7C3AED&labelColor=0D1117"/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=arunn0102&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge&labelColor=0D1117"/> -->
+  <!-- <img src="https://img.shields.io/github/followers/arunn0102?label=FOLLOWERS&style=for-the-badge&color=7C3AED&labelColor=0D1117"/> -->
   <img src="https://img.shields.io/badge/OPEN_TO-WORK-00C853?style=for-the-badge&labelColor=0D1117"/>
 </p>
 
@@ -139,38 +139,37 @@ console.log(arun.getMission());
 <br/>
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2" width="100%"/>
-
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+## 🛠️ Tech Stack & Developer Arsenal
 
 <div align="center">
 
-### 🎨 Frontend Technologies
+### 🎨 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark"/>
 
-<br/><br/>
+<br/>
 
-### ⚙️ Backend Technologies
+### ⚙️ Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,python&theme=dark"/>
 
-<br/><br/>
+<br/>
 
 ### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
 
-<br/><br/>
+<br/>
 
-### ☁️ Cloud & Deployment
+### ☁️ Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,vercel,netlify&theme=dark"/>
 
-<br/><br/>
+<br/>
 
-### 🔧 Development Tools
+### 🔧 Developer Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma&theme=dark"/>
 
@@ -293,31 +292,9 @@ A finance-focused website featuring a clean design and user-friendly interface.
 
 <!-- ═══════════════════════ CONTRIBUTION GRAPH ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2" width="100%"/>
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arunn0102&theme=tokyo-night&hide_border=true&area=true&custom_title=Arun's%20Contribution%20Graph"/>
-
-</div>
-
-<br/>
 
 <!-- ═══════════════════════ GITHUB TROPHIES ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=2" width="100%"/>
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=arunn0102&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
-</div>
-
-<br/>
 
 <!-- ═══════════════════════ CERTIFICATIONS ═══════════════════════ -->
 
